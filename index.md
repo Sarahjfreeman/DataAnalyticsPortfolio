@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Sarah Juliette Freeman
 
 You can use the [editor on GitHub](https://github.com/Sarahjfreeman/DataAnalyticsPortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
