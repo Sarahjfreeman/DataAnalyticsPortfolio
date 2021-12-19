@@ -1,11 +1,9 @@
-# DataAnalyticsPortfolio
+# Data AnalyticsPortfolio
 
-Currently, I am a soon to be gradute of the Masters of Science Applied Health Informatics Program at Stony Brook University, with a concentration in Data Analtyics. The purpose of the github is to demonstrate my abilities in my various projects for future employment opportunities. My goals are to pursue the following roles in the IT field include : 
-1. Systems Analyst
-2. Healthcare Data Analyst
-3. Business Systems Analyst
-4. Data Analyst
-5. Junior Data Analyst 
-6. Imagining Application Analyst  
-7. Application Analyst
+I am a Lead Programmer Analyst specialiazed in heath informatics in medical application and software suppport. I have a Masters of Science in Applied Health Informatics with a concentration in Data Analytics. 
 
+The purpose of the github is to demonstrate my abilities in my various projects for future employment opportunities. My goals are to pursue the following roles in the IT field include : 
+
+1. Healthcare Data Analyst
+2. Data Analyst
+3. Junior Data Analyst 
